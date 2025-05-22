@@ -66,7 +66,7 @@ The purpose of this project is to help **Green Valley Resort** better understand
   - Gender
   - Applied to all worksheets using this data source
 
-🖼️ !(https://github.com/rashi12121/RFM-Based-Guest-Profiling-for-Hospitality-Marketing/blob/main/_Green%20Vally%20Resort%20Dashboard.png)*
+🖼️ ![Dashboard](https://github.com/rashi12121/RFM-Based-Guest-Profiling-for-Hospitality-Marketing/blob/main/_Green%20Vally%20Resort%20Dashboard.png)
 
 ---
 
