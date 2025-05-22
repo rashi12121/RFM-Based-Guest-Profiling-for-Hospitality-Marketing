@@ -8,7 +8,7 @@ The purpose of this project is to help **Green Valley Resort** better understand
 ## 📊 Dataset Description
 
 - **File Name**: `GreenValley - Data.csv`
-- **Source**: Provided by Green Valley Resort management (simulated for project use)
+- **Source**: Provided by Green Valley Resort management(Kaggle)
 - **Key Variables**:
   - `Guest ID`
   - `Guest Name`
